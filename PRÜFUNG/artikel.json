@@ -1,0 +1,112 @@
+[{
+        "_kategorie": "fruchteis",
+        "_img": "Mango.png",
+        "_name": "Mango",
+        "_preis": 1.10
+    },
+    {
+        "_kategorie": "fruchteis",
+        "_img": "Zitrone.png",
+        "_name": "Zitrone",
+        "_preis": 1.10
+    },
+    {
+        "_kategorie": "fruchteis",
+        "_img": "Himbeere.png",
+        "_name": "Himbeere",
+        "_preis": 1.10
+    },
+    {
+        "_kategorie": "milcheis",
+        "_img": "Schoko.png",
+        "_name": "Schokolade",
+        "_preis": 1.10
+
+    },
+    {
+        "_kategorie": "milcheis",
+        "_img": "Straciatella.png",
+        "_name": "Straciatella",
+        "_preis": 1.10
+    },
+    {
+        "_kategorie": "milcheis",
+        "_img": "Vanille.png",
+        "_name": "Vanille",
+        "_preis": 1.10
+    },
+    {
+        "_kategorie": "Streusel",
+        "_img": "Topping2.jpg",
+        "_name": "Schokostreusel",
+        "_preis": 0.80
+
+    },
+    {
+        "_kategorie": "Streusel",
+        "_img": "Topping1.jpg",
+        "_name": "Snickersstreusel",
+        "_preis": 1.00
+    },
+    {
+        "_kategorie": "Streusel",
+        "_img": "Topping3.jpg",
+        "_name": "Zuckerstreusel",
+        "_preis": 0.70
+    },
+    {
+        "_kategorie": "Soßen",
+        "_img": "ToppingMango.jpg",
+        "_name": "Mango",
+        "_preis": 0.60
+    },
+    {
+        "_kategorie": "Soßen",
+        "_img": "ToppingErdbeer.jpg",
+        "_name": "Erdbeere",
+        "_preis": 0.60
+    },
+    {
+        "_kategorie": "Soßen",
+        "_img": "ToppingCaramelMou.jpg",
+        "_name": "Caramel",
+        "_preis": 0.60
+
+    },
+    {
+        "_kategorie": "Waffeln",
+        "_img": "Waffel1.jpg",
+        "_name": "kleine Waffel",
+        "_preis": 0.40
+    },
+    {
+        "_kategorie": "Waffeln",
+        "_img": "Waffel2.jpg",
+        "_name": "kleine Waffel",
+        "_preis": 0.70
+    },
+    {
+        "_kategorie": "Waffeln",
+        "_img": "Waffel3.jpg",
+        "_name": "kleine Waffel",
+        "_preis": 1.00
+    },
+    {
+        "_kategorie": "Becher",
+        "_img": "Becher1.jpg",
+        "_name": "Braun",
+        "_preis": 0.50
+    },
+    {
+        "_kategorie": "Becher",
+        "_img": "Becher2.jpg",
+        "_name": "Punkte",
+        "_preis": 0.50
+    },
+    {
+        "_kategorie": "Becher",
+        "_img": "Becher3.jpg",
+        "_name": "Papagei",
+        "_preis": 0.30
+    }
+]
